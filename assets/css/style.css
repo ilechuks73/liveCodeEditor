@@ -24,7 +24,7 @@ body{
 
 .codearea div{
     width: 100%;
-    border-right: 1px solid green;
+    border-right: 1px solid blue;
 }
 
 .codearea .textarea{
